@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:APEDO;Kossi Emmanuel;;;
+FN:APEDO Kossi Emmanuel
+ORG:Huawei Technologies Gabon
+TITLE:Ingenieur en Conception Informatique | Analyste de Donnees & Developpeur Fullstack
+TEL;TYPE=CELL,VOICE:+24166172918
+EMAIL;TYPE=INTERNET:apedokossiemmanuel@gmail.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/ApedoKossiEmmanuel
+URL;TYPE=GitHub:https://github.com/Leunamme98
+ADR;TYPE=WORK:;;Libreville;;;;Gabon
+NOTE:Ingenieur SI & Bases de Donnees - Analyste de Donnees - Developpeur Fullstack (Java/Spring Boot, Angular, PostgreSQL, Power BI)
+END:VCARD
